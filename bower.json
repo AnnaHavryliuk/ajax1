@@ -1,0 +1,20 @@
+{
+  "name": "ajax",
+  "description": "Homework of topic Ajax part 1",
+  "main": "index.js",
+  "authors": [
+    "Anna Havryliuk"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
